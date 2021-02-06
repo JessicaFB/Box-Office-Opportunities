@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Module 1 Final Project
 
 ## Introduction
@@ -158,3 +159,31 @@ The end of module projects and project reviews are a critical part of the progra
 The projects are serious and important. They are not graded, but they can be passed and they can be failed. Take the project seriously, put the time in, ask for help from your peers or instructors early and often if you need it, and treat the review as a job interview and you'll do great. We're rooting for you to succeed and we're only going to ask you to take a review again if we believe that you need to. We'll also provide open and honest feedback so you can improve as quickly and efficiently as possible.
 
 Finally, this is your first project. We don't expect you to remember all of the terms or to get all of the answers right. If in doubt, be honest. If you don't know something, say so. If you can't remember it, just say so. It's very unusual for someone to complete a project review without being asked a question they're unsure of, we know you might be nervous which may affect your performance. Just be as honest, precise and focused as you can be, and you'll do great!
+=======
+# Movie-Industry-Analysis
+Analysis of what types of films are doing the best at the box office to hypothetically advise the CEO of Microsoft what types of films they should be creating.
+
+### Data 
+
+Data from:
+- IMBd: https://datasets.imdbws.com
+- TN: https://www.the-numbers.com
+- TMBd: https://api.themoviedb.org
+
+Databases
+
+### Popularity
+
+Popularity rating from TMBd calculated using the methods provided here:
+https://developers.themoviedb.org/3/getting-started/popularity
+
+### Packages 
+
+Packages used:
+- pandas
+- numpy
+- matplotlib.pyplot
+- seaborn
+- json
+
+>>>>>>> 778fafa0948b74f32bf40fde9a03a986709335b4

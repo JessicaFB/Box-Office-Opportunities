@@ -1,7 +1,12 @@
 .ipynb_checkpoints
+<<<<<<< HEAD
 .DS_Store
 __pycache__
 *.db
 *.pytest_cache
 zippedData
 
+=======
+genres.csv
+sorted_roi_budget_data.csv
+>>>>>>> 778fafa0948b74f32bf40fde9a03a986709335b4
