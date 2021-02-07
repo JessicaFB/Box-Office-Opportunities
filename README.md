@@ -7,22 +7,26 @@ Microsoft sees other big companies producing video content, and they want to get
 ### Methods
 
 **Define Success**
+
 For this analysis we explored 3 success metrics:
 - Gross Revenue (which equate to ticket sales)
 - Profit
 - Return on Investment (ROI)
 
 **Discover Best Predictors of Success**
+
 For this analysis we explored all features available in our data sets:
 - Production Budget 
 - Genre
 - Popularity
 
 **Methods**
+
 - EDA (Exploratory Data Analysis, as visualizations are great at showing relationships)
 - Linear Regression using Pearson's Correlation Coefficient (r) as our accuracy metric
 
 **Accuracy Metric**
+
 Pearson's Correlation Coefficient (r). Pearson's r is considered significant at r>=0.5, with increasing strength of correlation as the number increases or decreases toward 1 or -1. (With 1 equating to 100% positive correlation, and -1 indicating a 100% negative, yet significant correlation). 
 
 ### Data 
