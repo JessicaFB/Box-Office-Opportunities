@@ -16,9 +16,10 @@ Data from:
 Popularity rating from TMDb calculated using the methods provided here:
 https://developers.themoviedb.org/3/getting-started/popularity
 
-### Packages 
+### Technologies 
 
-Packages used:
+- Python
+- Jupyter Notebook
 - Pandas
 - Numpy
 - Matplotlib.pyplot
